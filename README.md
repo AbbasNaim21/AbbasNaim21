@@ -13,7 +13,7 @@
 
 ## 👩‍💻 About Me
 
-I am a dedicated and results-driven software developer with [X years] of experience in designing and implementing software solutions. My passion for coding extends to [specific areas of interest, e.g., web development, machine learning, etc.], where I thrive on creating innovative and efficient solutions.
+I am a dedicated and results-driven software developer with 2 years. of experience in designing and implementing software solutions. My passion for coding extends to web developement, mobile apps developement as Fullstack, where I thrive on creating innovative and efficient solutions.
 
 ## 🚀 Skills
 
