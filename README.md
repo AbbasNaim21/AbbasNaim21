@@ -67,6 +67,7 @@ These interests not only provide balance to my life but also contribute to my sk
   **Achievements:**
   - Successfully delivered Enjoy The Impossible, Emraa', MDtechSolutions, Lughademy.
   - Improved website performance and responsiveness, resulting in a 80% increase in user engagement.
+[![trophy](https://github-profile-trophy.vercel.app/?username=AbbasNm21)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📫 Contact Me
 
